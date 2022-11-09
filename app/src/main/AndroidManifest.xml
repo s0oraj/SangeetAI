@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/mask"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MoodyMusic">
+        android:theme="@style/Theme.SangeetAI">
 
         <activity android:name=".activity.SplashActivity"
             android:exported="true">
