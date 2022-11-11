@@ -49,6 +49,9 @@ public class ExpressionDisplayActivity extends AppCompatActivity {
     boolean isSad = false;
 
     ArrayList<String> arrSadSongName = new ArrayList<>();
+
+
+
     ArrayList<String> arrHappySongName = new ArrayList<>();
 
     ArrayList<String> arrsongUrl = new ArrayList<>();
@@ -166,7 +169,7 @@ public class ExpressionDisplayActivity extends AppCompatActivity {
 
                 jcplayer.playAudio(jcAudios.get(position));
                 jcplayer.setVisibility(View.VISIBLE);
-               //jcplayer.createNotification();
+                //jcplayer.createNotification();
             }
         });
 
@@ -199,9 +202,9 @@ public class ExpressionDisplayActivity extends AppCompatActivity {
             isSad = false;
         }
 
-       // emojiPlaceholderIV.setImageResource(emoji);
-     //   expressionBackgroundRL.setBackground(getResources().getDrawable(background));
-       // setRippleEffect();
+        // emojiPlaceholderIV.setImageResource(emoji);
+        //   expressionBackgroundRL.setBackground(getResources().getDrawable(background));
+        // setRippleEffect();
 
         jcplayer.setBackground(getResources().getDrawable(background));
 
@@ -236,7 +239,7 @@ public class ExpressionDisplayActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-       // destroyMediaPlayer();
+        // destroyMediaPlayer();
     }
 
 }
