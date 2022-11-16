@@ -1,10 +1,14 @@
 # SangeetAI -- Emotion Based Music Player 
-An emotion based music player android application which detects mood of the user based on his/her facial expressions and plays songs according to the mood detected.
+An  Android Application which recommends and plays songs based on the users mood detected.
+It does image processing of users photo taken from camera and does emotional analysis on it to figure out if user is happy, sad, calm etc and then plays/recommends songs according to users mood.
 
 
-![banner](https://user-images.githubusercontent.com/42529024/198926355-20252b0a-fcce-403d-8d28-2b5ad71b2550.png)
 
- # Animus - The social media app
+
+
+
+
+ 
 
  A social media android application which stores users data in  [Firebase Database](https://firebase.google.com/docs/firestore).
 
@@ -18,9 +22,9 @@ An emotion based music player android application which detects mood of the user
 
  * Messaging feature allows users to stay in touch with their friends!
 
- ## Screenshots
 
-![Screeshot_1](https://user-images.githubusercontent.com/42529024/198926752-693c765d-e8a0-4322-8a05-bb8b274cc602.png)
+
+
 
 ![Screenshot_2](https://user-images.githubusercontent.com/42529024/198926742-61272946-a468-42f8-bb3b-ae085d1bb005.png)
 
