@@ -51,19 +51,19 @@ It does image processing of users photo taken from camera and does emotional ana
 
   * [Slidableactivity](https://github.com/r0adkll/Slidr)
 
- ## Features
 
- -  Posts: Users can post their immages and their followers will be able to see that in the home screen of the app.
 
- -  Instant-Messaging: Allows friends to message each other and recieive messages instantly
 
- -  Status: Users can create a custom status which stays for 24 hours.
 
- -  Search: Animus allows its users to explore new people and make friends, as well as find their old friends who have been using the platform.
+ 
 
- -  Like & Comment: Users can like and comment on posts as well as see who has previously commented.
 
- -  Notification: Users get notified whenever someone follows them, or likes their photos or comments on their posts.
+
+
+
+
+
+
 
  
 
