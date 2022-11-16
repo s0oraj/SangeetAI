@@ -1,4 +1,4 @@
-# SangeetAI
+# SangeetAI -- Let your mood decide.
 An emotion based music player android application which detects mood of the user based on his/her facial expressions and plays songs according to the mood detected.
 
 
