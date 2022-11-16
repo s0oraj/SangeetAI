@@ -31,9 +31,9 @@ It does image processing of users photo taken from camera and does emotional ana
 
  ## Libraries used
 
- * [Google ML Kit](https://developers.google.com/ml-kit)
+ * [Google ML Kit](https://developers.google.com/ml-kit) for image processing and emotional analysis 
 
- * [Picasso](https://github.com/square/picasso)
+ * [Jc Player](https://github.com/jeancsanchez/JcPlayer/releases)for creating, storing, playing songs with a elegant User Interface 
 
  * [ExoPlayer](https://github.com/google/ExoPlayer)
 
