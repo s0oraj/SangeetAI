@@ -31,7 +31,7 @@ It does image processing of users photo taken from camera and does emotional ana
 
  ## Libraries used
 
- * [Glide](https://github.com/bumptech/glide)
+ * [Google ML Kit](https://developers.google.com/ml-kit)
 
  * [Picasso](https://github.com/square/picasso)
 
