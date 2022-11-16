@@ -27,6 +27,8 @@ It does image processing of users photo taken from camera and does emotional ana
 
 
 
+Install & try the app: [Download APK](https://drive.google.com/file/d/1I65cnVoqfQvFrVowe3CA9GS0iNMfiR4h/view?usp=drivesdk)
+
 
 
  ## Libraries used
